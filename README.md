@@ -10,7 +10,7 @@ Then **CLONE** this repository to your laptop using the command _git clone_ and 
 git clone https://github.com/azuredevcollege/cognitive-services-kitchen-sink.git
 ```
 
-After that, follow the setup instructions for your IDE.
+After that, follow the setup instructions for your IDE. 
 
 ### Recommended IDE Setup
 
